@@ -1,0 +1,29 @@
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color:burlywood;
+    flex-wrap: wrap;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: burlywood;
+    flex-wrap: wrap;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.body{
+    background-color:burlywood;
+}
+.item{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.origami{
+    border-radius: 20px;
+}
+
